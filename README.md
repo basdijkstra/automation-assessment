@@ -4,7 +4,9 @@ If you're tasked with the assessment of an ongoing test automation project, or i
 This is by no means an official list, nor do I claim that it's complete, but I _do_ think that's the list is pretty extensive and covers a wide range of aspects involved with making a test automation project successful.
 
 Here goes!
+
 ---
+
 ## Goals
 * Do you have an answer to the question of 'Why do we automate?' What are the goals you hope to achieve by implementing test automation?
 * Is everybody on the same page with regards to the answer to the previous question?
@@ -41,7 +43,9 @@ Here goes!
 ## Atomicity
 
 ## Environments
+
 ---
+
 ### You're missing something!
 Excellent. Let me know via email (bas@ontestautomation.com), or better, submit a PR and I'd be happy to include your suggestions. Or fork this project and start your own.
 
